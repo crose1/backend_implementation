@@ -1,4 +1,4 @@
-# Aspect Backend Project
+# Flask App Backend Project
 
 The goal of this project is to showcase a simple implementation of the backend of a system which:
 
