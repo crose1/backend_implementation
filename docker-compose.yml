@@ -1,0 +1,9 @@
+version: "3.9"
+
+services: 
+  api: 
+    environment:
+      - API_PORT=9000
+    build: .
+    ports: 
+      - "9000:9000"
