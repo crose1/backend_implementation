@@ -52,7 +52,7 @@ This can also be tested by going to localhost:9000/healthcheck in your browser
 
 ## Testing locally - This will only work on MacOS, not recommended on Windows
 1. `pip install pipenv`
-2. `cd aspect_project` 
+2. `cd backend_implementation` 
 3. `pipenv --python 3.9` #Creates Python 3.9 virtual env
 4. `pipenv install -r requirements.txt` #Installs all dependencies 
 5. `pipenv shell` #Activates virtual env
